@@ -1,0 +1,292 @@
+# depslib dependency file v1.0
+1595693088 source:c:\users\sakthi\desktop\clg shit\wallet\main.cpp
+	<iostream>
+	<stdlib.h>
+	"IndividualRetirementAccount.h"
+	"BankDeposit.h"
+	"Contract.h"
+	"InvestmentFundShare.h"
+	"RealEstate.h"
+	"Wallet.h"
+	<stdio.h>
+	"Interface.h"
+	"Simulation.h"
+	"Utils.h"
+
+1595693477 c:\users\sakthi\desktop\clg shit\wallet\individualretirementaccount.h
+	<string>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+	"Asset.h"
+
+1595693177 c:\users\sakthi\desktop\clg shit\wallet\asset.h
+	<string>
+	<fstream>
+	<iostream>
+
+1595693642 c:\users\sakthi\desktop\clg shit\wallet\utils.h
+	<string>
+	<regex>
+	<iostream>
+
+1595693265 c:\users\sakthi\desktop\clg shit\wallet\bankdeposit.h
+	"Asset.h"
+	<string>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+	<iostream>
+
+1595693311 c:\users\sakthi\desktop\clg shit\wallet\contract.h
+	"Date.h"
+	"Asset.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+
+1595673890 c:\users\sakthi\desktop\clg shit\wallet\date.h
+
+1595693551 c:\users\sakthi\desktop\clg shit\wallet\investmentfundshare.h
+	<string>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	"Asset.h"
+	"Utils.h"
+
+1595693604 c:\users\sakthi\desktop\clg shit\wallet\realestate.h
+	"Asset.h"
+	<string>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+
+1595673890 c:\users\sakthi\desktop\clg shit\wallet\wallet.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+
+1595678245 c:\users\sakthi\desktop\clg shit\wallet\interface.h
+	"Wallet.h"
+	"Asset.h"
+	"FileWriter.h"
+	"Utils.h"
+	<regex>
+
+1595693404 c:\users\sakthi\desktop\clg shit\wallet\filewriter.h
+	<iostream>
+	<stdlib.h>
+	"Asset.h"
+	"Interface.h"
+	"IndividualRetirementAccount.h"
+	"BankDeposit.h"
+	"Contract.h"
+	"InvestmentFundShare.h"
+	"RealEstate.h"
+	"Wallet.h"
+
+1595673890 c:\users\sakthi\desktop\clg shit\wallet\simulation.h
+	"Wallet.h"
+	"Asset.h"
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	"Date.h"
+	"Utils.h"
+	<sstream>
+
+1595691223 source:c:\users\sakthi\desktop\clg shit\wallet\asset.cpp
+	"Asset.h"
+	<iostream>
+
+1595691391 source:c:\users\sakthi\desktop\clg shit\wallet\bankdeposit.cpp
+	"BankDeposit.h"
+	<iostream>
+
+1595691584 source:c:\users\sakthi\desktop\clg shit\wallet\contract.cpp
+	"Contract.h"
+	<iostream>
+
+1595691624 source:c:\users\sakthi\desktop\clg shit\wallet\date.cpp
+	"Date.h"
+
+1595691651 source:c:\users\sakthi\desktop\clg shit\wallet\filewriter.cpp
+	"FileWriter.h"
+	<iostream>
+
+1595691844 source:c:\users\sakthi\desktop\clg shit\wallet\individualretirementaccount.cpp
+	"IndividualRetirementAccount.h"
+	<iostream>
+
+1595695142 source:c:\users\sakthi\desktop\clg shit\wallet\interface.cpp
+	"Interface.h"
+	<iostream>
+
+1595692298 source:c:\users\sakthi\desktop\clg shit\wallet\investmentfundshare.cpp
+	"InvestmentFundShare.h"
+	<iostream>
+
+1595692599 source:c:\users\sakthi\desktop\clg shit\wallet\realestate.cpp
+	"RealEstate.h"
+	<iostream>
+
+1595692643 source:c:\users\sakthi\desktop\clg shit\wallet\simulation.cpp
+	"Simulation.h"
+	<iostream>
+
+1595692690 source:c:\users\sakthi\desktop\clg shit\wallet\utils.cpp
+	"Utils.h"
+	<iostream>
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\asset.cpp
+	"Asset.h"
+	<iostream>
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\asset.h
+	<string>
+	<fstream>
+	<iostream>
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\bankdeposit.cpp
+	"BankDeposit.h"
+	<iostream>
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\bankdeposit.h
+	"Asset.h"
+	<string>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+	<iostream>
+
+1595696306 c:\users\madhu\desktop\ecommerce wallet\utils.h
+	<string>
+	<regex>
+	<iostream>
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\contract.cpp
+	"Contract.h"
+	<iostream>
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\contract.h
+	"Date.h"
+	"Asset.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\date.h
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\date.cpp
+	"Date.h"
+
+1595736994 source:c:\users\madhu\desktop\ecommerce wallet\filewriter.cpp
+	"FileWriter.h"
+	<iostream>
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\filewriter.h
+	<iostream>
+	<stdlib.h>
+	"Asset.h"
+	"Interface.h"
+	"IndividualRetirementAccount.h"
+	"BankDeposit.h"
+	"Contract.h"
+	"InvestmentFundShare.h"
+	"RealEstate.h"
+	"Wallet.h"
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\interface.h
+	"Wallet.h"
+	"Asset.h"
+	"FileWriter.h"
+	"Utils.h"
+	<regex>
+
+1595696306 c:\users\madhu\desktop\ecommerce wallet\wallet.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\individualretirementaccount.h
+	<string>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+	"Asset.h"
+
+1595696304 c:\users\madhu\desktop\ecommerce wallet\investmentfundshare.h
+	<string>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	"Asset.h"
+	"Utils.h"
+
+1595696306 c:\users\madhu\desktop\ecommerce wallet\realestate.h
+	"Asset.h"
+	<string>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Utils.h"
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\individualretirementaccount.cpp
+	"IndividualRetirementAccount.h"
+	<iostream>
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\interface.cpp
+	"Interface.h"
+	<iostream>
+
+1595696304 source:c:\users\madhu\desktop\ecommerce wallet\investmentfundshare.cpp
+	"InvestmentFundShare.h"
+	<iostream>
+
+1595737341 source:c:\users\madhu\desktop\ecommerce wallet\main.cpp
+	<iostream>
+	<stdlib.h>
+	"IndividualRetirementAccount.h"
+	"BankDeposit.h"
+	"Contract.h"
+	"InvestmentFundShare.h"
+	"RealEstate.h"
+	"Wallet.h"
+	"Interface.h"
+	"Simulation.h"
+	"Utils.h"
+
+1595696306 c:\users\madhu\desktop\ecommerce wallet\simulation.h
+	"Wallet.h"
+	"Asset.h"
+	<stdlib.h>
+	<ctime>
+	<stdio.h>
+	"Date.h"
+	"Utils.h"
+	<sstream>
+
+1595696306 source:c:\users\madhu\desktop\ecommerce wallet\realestate.cpp
+	"RealEstate.h"
+	<iostream>
+
+1595696306 source:c:\users\madhu\desktop\ecommerce wallet\simulation.cpp
+	"Simulation.h"
+	<iostream>
+
+1595696306 source:c:\users\madhu\desktop\ecommerce wallet\utils.cpp
+	"Utils.h"
+	<iostream>
+
